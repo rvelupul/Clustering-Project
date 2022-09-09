@@ -1,0 +1,7 @@
+Libraries required - Scipy for reading arff files, matplotlib for plotting
+
+Command to run - python3 clusterprojectfinal.py
+
+When we run this code, it will prompt to enter the k value and the name of the arff file. Please enter any k value and the name of the arff file: segment-full.arff.
+
+Because of the large data set, it will take some time to give an output of the graph, the prevalent labels, purity, and optimal k value. Graph will appear in the same location that the segment-full.arff file is in.
